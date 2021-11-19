@@ -2,7 +2,9 @@
 - 👀 I’m interested in finding perfect candidates
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me wioleta.sadlowska@manpowergroup.com  
++48519447885
+
 
 <!---
 Wioletaa/Wioletaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
